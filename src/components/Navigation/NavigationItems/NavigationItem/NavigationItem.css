@@ -6,7 +6,7 @@
 }
 
 .NavigationItem a {
-    color: #8f5c2c;
+    color: #8F5C2C;
     text-decoration: none;
     width: 100%;
     box-sizing: border-box;
@@ -27,14 +27,14 @@
         width: auto;
         align-items: center;
     }
-
+    
     .NavigationItem a {
         color: white;
         height: 100%;
         padding: 16px 10px;
         border-bottom: 4px solid transparent;
     }
-
+    
     .NavigationItem a:hover,
     .NavigationItem a:active,
     .NavigationItem a.active {
