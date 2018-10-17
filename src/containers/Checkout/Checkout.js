@@ -36,4 +36,4 @@ const mapStateToProps = state => {
   }
 };
 
-export default (mapStateToProps)(Checkout);
+export default connect(mapStateToProps)(Checkout);
